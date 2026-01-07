@@ -48,6 +48,7 @@ The simulations consistently demonstrate that:
 	-h) Help
 
 	[+] Use example:  ./ruleta.sh -m 100 -t martingala
-  [+] Use example:  ./ruleta.sh -m 100 -t inverseLabrouchere
+	[+] Use example:  ./ruleta.sh -m 100 -t inverseLabrouchere
+  
   
 
